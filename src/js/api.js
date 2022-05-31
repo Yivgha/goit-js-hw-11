@@ -2,7 +2,7 @@ import axios from 'axios';
 
 axios.defaults.baseURL = 'https://pixabay.com/api/';
 axios.defaults.headers.post['Content-Type'] = 'application/json; charset=utf-8';
-const API_KEY = '25182566-6d97045846fa1b6cae2a84492';
+const API_KEY = '27752204-f0153eb643d17be98ea2a5353';
 
 export class ApiService {
   constructor() {
