@@ -1,6 +1,6 @@
 import SimpleLightbox from "simplelightbox";
 import "simplelightbox/dist/simple-lightbox.min.css";
-import { ApiService } from './js/Api';
+import { ApiService } from './js/аpi';
 import { getRefs } from './js/getRef';
 import { checkRequest } from './js/check-request';
 import { renderMarkup } from './js/renderingMarkup';
