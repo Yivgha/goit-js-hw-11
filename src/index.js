@@ -4,8 +4,6 @@ import { ApiService } from './js/Api';
 import { getRefs } from './js/getRef';
 import { checkRequest } from './js/check-request';
 import { renderMarkup } from './js/renderingMarkup';
-import SimpleLightbox from 'simplelightbox';
-import 'simplelightbox/dist/simple-lightbox.min.css';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 import './style.css';
 
